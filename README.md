@@ -20,7 +20,7 @@ This repository contains the SystemVerilog code for a **Synchronous FIFO Design*
    - Documentation of bugs discovered during the development process and how they were fixed.
 
 3. **Verification Plan**  
-   - Detailed plan for verifying the FIFO, ensuring coverage of all edge cases, available in `verification_plan.pdf`.
+   - Detailed plan for verifying the FIFO, ensuring coverage of all edge cases, available in the report.
 
 4. **Verification Code**  
    - Several SystemVerilog packages are used for verification:
